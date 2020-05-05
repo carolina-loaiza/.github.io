@@ -117,10 +117,12 @@
 
 .close {
   position: absolute;
-  top: 30px;
+  top: 100px;
   right: 30px;
   font-size: 20px;
   color: #777777;
+  z-index: 999;
+  background: white;
 }
 
 .main {
